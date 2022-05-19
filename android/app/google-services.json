@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976165710108",
+    "project_id": "media-library-8e708",
+    "storage_bucket": "media-library-8e708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976165710108:android:153fc1a8cfa331644c72d9",
+        "android_client_info": {
+          "package_name": "com.marekjonczyk.media_library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976165710108-71vf5s105olieaqtuqltg7p1q5d0s3bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP_y_MXdY4G08_aPU4zfnFYgQ-fzSdty0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976165710108-71vf5s105olieaqtuqltg7p1q5d0s3bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
